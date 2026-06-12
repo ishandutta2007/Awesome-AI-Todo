@@ -7,6 +7,9 @@
   <a href="https://github.com/ishandutta2007/Awesome-AI-Todo/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Todo?style=for-the-badge&color=blue" alt="Forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Todo/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Todo?style=for-the-badge&color=green" alt="License"></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Todo/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Todo?style=for-the-badge&color=red" alt="Issues"></a>
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 </p>
 
 ---
