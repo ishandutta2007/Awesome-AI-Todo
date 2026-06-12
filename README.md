@@ -21,13 +21,33 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS Products
 
-### Core Platforms (AI Self-Executing To-Do Lists)
+### Comparison of AI To-Do Platforms
+
+| Product | Pricing | Free Tier Limit | Key AI Feature |
+| :--- | :--- | :--- | :--- |
+| **[Bond](https://bond.ai/)** | BYOK (Pay for usage) | 3 teammates, 50 memory items | Autonomous workflow execution |
+| **[Motion](https://www.usemotion.com/)** | $19/mo (billed annually) | No (7-day trial only) | Auto-scheduling & prioritization |
+| **[Taskade](https://taskade.com/)** | Free / $6/mo (Starter) | 150 AI tasks/mo | Multi-agent task orchestration |
+| **[ClickUp Brain](https://clickup.com/ai)** | $7–$9/mo (add-on) | Trial (25–50 uses) | AI task generation & summaries |
+| **[Reclaim.ai](https://reclaim.ai/)** | Free / $8/mo (Starter) | 1 habit, 1 sync, 1-week range | Smart habit & task scheduling |
+| **[Trevor AI](https://trevorai.com/)** | Free / $3.99/mo (Pro) | Unlimited tasks, 1 calendar | Personal AI time-blocking model |
+| **[Sintra AI](https://sintra.ai/)** | $39/mo | No (14-day guarantee) | Specialized AI "Helpers" for tasks |
+| **[TimeHero](https://timehero.com/)** | $4.60/user/mo | No (7-day trial only) | Automated workload balancing |
+| **[Todoist](https://todoist.com/)** | Free / $4/mo (Pro) | 10 AI voice sessions/mo | Natural language task parsing |
+| **[Any.do](https://any.do/)** | Free / $4.99/mo (Premium) | No AI features in free tier | Personal AI Daily Assistant |
+| **[Superlist](https://superlist.com/)** | Free / $6/mo (Basic) | No AI features in free tier | "Talk AI" voice-to-task input |
+| **[Asmi AI](https://asmi.ai/)** | Subscription-based | No (Waitlist/Beta) | Proactive AI "Chief of Staff" |
+
+### Platform Highlights
 
 - **[Bond](https://bond.ai/)**  
-  Autonomous AI agent that manages your tasks, schedules, and executes workflows proactively.
+  Autonomous AI agent that manages your tasks, schedules, and executes workflows proactively. Ideal for power users using their own API keys.
 
 - **[Motion](https://www.usemotion.com/)**  
   AI-powered task manager that automatically schedules tasks, prioritizes, and adapts to your calendar.
+
+- **[Taskade](https://taskade.com/)**  
+  AI-native workspace with strong multi-agent support for building autonomous task systems.
 
 - **[ClickUp Brain](https://clickup.com/ai)**  
   Intelligent AI layer inside ClickUp that auto-generates tasks, summarizes work, and suggests next actions.
@@ -36,14 +56,10 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
   AI executive assistant that turns natural language into executable tasks and automations.
 
 - **[Asmi AI](https://asmi.ai/)**  
-  Personal AI agent focused on proactive task management and daily execution support.
+  Personal AI agent focused on proactive task management and real-world execution (phone calls, etc.).
 
 - **[TimeHero](https://timehero.com/)**  
   Smart AI task manager that automatically schedules and tracks recurring and project-based work.
-
-### Advanced & Specialized Platforms
-
-**Other notable mentions**: Reclaim.ai, Trevor AI, and various calendar + AI task integrations.
 
 ## Open-Source GitHub Projects
 
