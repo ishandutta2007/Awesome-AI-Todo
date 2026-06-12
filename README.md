@@ -23,20 +23,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Comparison of AI To-Do Platforms
 
-| Product | Pricing | Free Tier Limit | Key AI Feature |
-| :--- | :--- | :--- | :--- |
-| **[Bond](https://bond.ai/)** | BYOK (Pay for usage) | 3 teammates, 50 memory items | Autonomous workflow execution |
-| **[Motion](https://www.usemotion.com/)** | $19/mo (billed annually) | No (7-day trial only) | Auto-scheduling & prioritization |
-| **[Taskade](https://taskade.com/)** | Free / $6/mo (Starter) | 150 AI tasks/mo | Multi-agent task orchestration |
-| **[ClickUp Brain](https://clickup.com/ai)** | $7–$9/mo (add-on) | Trial (25–50 uses) | AI task generation & summaries |
-| **[Reclaim.ai](https://reclaim.ai/)** | Free / $8/mo (Starter) | 1 habit, 1 sync, 1-week range | Smart habit & task scheduling |
-| **[Trevor AI](https://trevorai.com/)** | Free / $3.99/mo (Pro) | Unlimited tasks, 1 calendar | Personal AI time-blocking model |
-| **[Sintra AI](https://sintra.ai/)** | $39/mo | No (14-day guarantee) | Specialized AI "Helpers" for tasks |
-| **[TimeHero](https://timehero.com/)** | $4.60/user/mo | No (7-day trial only) | Automated workload balancing |
-| **[Todoist](https://todoist.com/)** | Free / $4/mo (Pro) | 10 AI voice sessions/mo | Natural language task parsing |
-| **[Any.do](https://any.do/)** | Free / $4.99/mo (Premium) | No AI features in free tier | Personal AI Daily Assistant |
-| **[Superlist](https://superlist.com/)** | Free / $6/mo (Basic) | No AI features in free tier | "Talk AI" voice-to-task input |
-| **[Asmi AI](https://asmi.ai/)** | Subscription-based | No (Waitlist/Beta) | Proactive AI "Chief of Staff" |
+| Product | Company Size / Valuation | Pricing | Free Tier Limit | Key AI Feature |
+| :--- | :--- | :--- | :--- | :--- |
+| **[ClickUp Brain](https://clickup.com/ai)** | **$4 Billion** | $7–$9/mo (add-on) | Trial (25–50 uses) | AI task generation & summaries |
+| **[Todoist](https://todoist.com/)** | **$1.5 Billion** (est.) | Free / $4/mo (Pro) | 10 AI voice sessions/mo | Natural language task parsing |
+| **[Motion](https://www.usemotion.com/)** | **$550 Million** | $19/mo (billed annually) | No (7-day trial only) | Auto-scheduling & prioritization |
+| **[Reclaim.ai](https://reclaim.ai/)** | **$40.2 Million** (Acq) | Free / $8/mo (Starter) | 1 habit, 1 sync, 1-week range | Smart habit & task scheduling |
+| **[Sintra AI](https://sintra.ai/)** | **$11.6 Million** | $39/mo | No (14-day guarantee) | Specialized AI "Helpers" for tasks |
+| **[Any.do](https://any.do/)** | **$10.5 Million** | Free / $4.99/mo (Premium) | No AI features in free tier | Personal AI Daily Assistant |
+| **[Superlist](https://superlist.com/)** | **$6 Million** | Free / $6/mo (Basic) | No AI features in free tier | "Talk AI" voice-to-task input |
+| **[Taskade](https://taskade.com/)** | **$5 Million** (Funding) | Free / $6/mo (Starter) | 150 AI tasks/mo | Multi-agent task orchestration |
+| **[Bond](https://bond.ai/)** | **$3.5 Million** (Funding) | BYOK (Pay for usage) | 3 teammates, 50 memory items | Autonomous workflow execution |
+| **[TimeHero](https://timehero.com/)** | **$1.8 Million** | $4.60/user/mo | No (7-day trial only) | Automated workload balancing |
+| **[Asmi AI](https://asmi.ai/)** | **$1 Million** (est.) | Subscription-based | No (Waitlist/Beta) | Proactive AI "Chief of Staff" |
+| **[Trevor AI](https://trevorai.com/)** | **Bootstrapped** | Free / $3.99/mo (Pro) | Unlimited tasks, 1 calendar | Personal AI time-blocking model |
 
 ### Platform Highlights
 
