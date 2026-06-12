@@ -1,0 +1,10 @@
+<svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="100" rx="10" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  <text x="20" y="40" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#343a40">Feature Status</text>
+  <rect x="20" y="55" width="80" height="25" rx="5" fill="#28a745"/>
+  <text x="60" y="73" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">Agentic</text>
+  <rect x="110" y="55" width="80" height="25" rx="5" fill="#007bff"/>
+  <text x="150" y="73" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">Auto-Schedule</text>
+  <rect x="200" y="55" width="80" height="25" rx="5" fill="#6f42c1"/>
+  <text x="240" y="73" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">LLM-Native</text>
+</svg>
